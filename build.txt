@@ -1,0 +1,3 @@
+displayName = Accursed Shields
+author = AS Development Team
+version = 0.1
