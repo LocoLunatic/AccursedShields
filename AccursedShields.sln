@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccursedShields", "AccursedShields.csproj", "{61952E4A-9888-40F0-9DD9-8BC9EEC5FAF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61952E4A-9888-40F0-9DD9-8BC9EEC5FAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61952E4A-9888-40F0-9DD9-8BC9EEC5FAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61952E4A-9888-40F0-9DD9-8BC9EEC5FAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61952E4A-9888-40F0-9DD9-8BC9EEC5FAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {860F1190-B3F6-4E0C-97B4-EA434A9F656B}
+	EndGlobalSection
+EndGlobal
